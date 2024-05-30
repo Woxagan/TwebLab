@@ -1,0 +1,21 @@
+    .buttoncustom{
+    border-color: black;
+    color: black;
+    background: deepskyblue;
+    border-radius: 50px;
+    width: 150px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+body{
+    background-image: url('https://images.freeimages.com/images/large-previews/2a7/polly-background-1631651.jpg?fmt=webp&w=500');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
